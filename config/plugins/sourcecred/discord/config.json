@@ -5,7 +5,7 @@
       "weights": {
       }
     },
-    "guildId": "678348980639498428",
+    "guildId": "895748805717282826",
     "includeNsfwChannels": false,
     "propsChannels": [
     ],
@@ -13,7 +13,7 @@
       "applyAveraging": false,
       "defaultWeight": 1,
       "weights": {
-        "sourcecred:678399364418502669": 10,
+        "assembly:916933429164126208": 3,
         "👍": 1
       }
     },
